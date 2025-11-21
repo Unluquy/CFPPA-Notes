@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9aca4cf300b59a9f","type":"text","text":"# Chargé d'accueil","x":-150,"y":-34,"width":310,"height":147,"color":"3"},
+		{"id":"8d8b95c645d85dc3","type":"text","text":"# Missions\n\n- Accueillir\n- Ecouter\n- Renseigner / Orienter\n- S'informer\n- Animer\n- Diriger\n- Représenter le site/région\n- Mettre à jour documents et info\n- Organiser\n- Planifier\n- Communiquer\n- Accompagner\n","x":-620,"y":-454,"width":360,"height":450,"color":"1"},
+		{"id":"9113ebb7a9369b7b","type":"text","text":"# Qualités\n\n- Curiosité / Attentif\n- Polyvalent\n- Adaptabilité\n- Ecoute\n- Amabilité/Sourire\n- Patient\n- Rigueur\n- Pragmatique\n- Endurance\n- Ponctualité\n- Autonomie\n- Empathie","x":240,"y":-454,"width":360,"height":450,"color":"4"},
+		{"id":"91cff2a860c0f4a5","type":"text","text":"# Lieux d'exercice\n\n- Offices du Tourisme\n- Musées / Sites touristiques\n- Domaines viticoles\n- Campings / Hôtels\n- Bases nautiques / de loisir\n- Parcs\n- Aéroports / Gares\n- Agences de voyage\n- Parcs expo\n- Théâtres / Salles de spectacles","x":-620,"y":137,"width":360,"height":450,"color":"6"},
+		{"id":"b567132d45ea72dd","type":"text","text":"# Compétences\n\n- Langues\n- Respecter les procédures\n- Informatique\n- Bon communiquant\n- Bon rédactionnel\n- Gestion du stress\n- Autonomie\n- Travailler en équipe","x":240,"y":137,"width":360,"height":450,"color":"5"}
+	],
+	"edges":[
+		{"id":"db8add5ebd82d3e4","fromNode":"9aca4cf300b59a9f","fromSide":"left","toNode":"8d8b95c645d85dc3","toSide":"right","color":"1"},
+		{"id":"580c248a3a35e571","fromNode":"9aca4cf300b59a9f","fromSide":"right","toNode":"9113ebb7a9369b7b","toSide":"left","color":"4"},
+		{"id":"64df44e32b5d0a95","fromNode":"9aca4cf300b59a9f","fromSide":"right","toNode":"b567132d45ea72dd","toSide":"left","color":"5"},
+		{"id":"6e4e19bc0d961ab9","fromNode":"9aca4cf300b59a9f","fromSide":"left","toNode":"91cff2a860c0f4a5","toSide":"right","color":"6"}
+	]
+}

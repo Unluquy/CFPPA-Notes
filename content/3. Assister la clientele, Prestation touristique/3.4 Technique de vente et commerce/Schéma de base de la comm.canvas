@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"605a81c1f3335a77","x":-520,"y":-300,"width":860,"height":620,"color":"5","type":"group","label":"Environnement"},
+		{"id":"23286637176eec5f","x":-486,"y":-120,"width":250,"height":120,"type":"text","text":"# Emetteur\nVendeur"},
+		{"id":"15018411936f5083","x":40,"y":-120,"width":250,"height":120,"type":"text","text":"# Récepteur\nClient"},
+		{"id":"6554daf1a8470569","x":-280,"y":160,"width":369,"height":60,"type":"text","text":"Commande - Avis (e-réputation)"}
+	],
+	"edges":[
+		{"id":"9c48284e74a89711","fromNode":"23286637176eec5f","fromSide":"right","toNode":"15018411936f5083","toSide":"left","label":"Média"},
+		{"id":"6fdd105567445d7f","fromNode":"15018411936f5083","fromSide":"bottom","toNode":"23286637176eec5f","toSide":"bottom","label":"Feedback"}
+	]
+}

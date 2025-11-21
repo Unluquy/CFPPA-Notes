@@ -1,0 +1,94 @@
+
+
+> Un **touriste** est une personne qui sejourne + de 24h (avec nuitée) hors de son habitat habituel pour quelque raison que ce soit
+
+XVIIIe siecle
+
+Aristo Anglais se decouvre une passion pour les tours d'Europ
+Motivated par les decouvertes de vestiges, litté, arts
+
+Start en méditéranée, en France
+
+Créations de Palaces (rue des Anglais) pour accueil la vague d'anglais
+
+Apparition du mot "tourisme"
+
+https://www.nouveautourismeculturel.com/blog/2015/03/05/breve-histoire-du-tourisme
+
+> [!NOTE]
+> **Le Tourisme fut  d’abord anglais et réservé à une élite aristocratique**
+> 
+> Historiquement, le tourisme a d’abord été une pratique culturelle avant de devenir un phénomène de masse et de revêtir d’importants enjeux économiques. Le « Grand Tour » désignait au XVIIIe siècle le voyage initiatique d’un an, à travers l’Europe, des jeunes aristocrates britanniques.L’étape italienne et l’art classique étaient obligatoires et, à leur retour, les jeunes  hivernaient sur la Côte d’Azur avant de passer les Alpes, créant, par exemple dans la région niçoise, une  véritable colonie britannique et une nouvelle économie (Résidences, services, routes…dont la bien-nommée _Promenade des Anglais)_. Ces jeunes voyageaient pour découvrir l’Europe mais aussi pour faire du lobbying auprès des grands de ce monde qu’ils rencontraient, tel était le double objectif du tourisme pour cette petite élite.
+> 
+> C’est Stendhal qui francisera officiellement  le terme « Tourism » en 1838 dans ses   _Mémoires d’un touriste_ , livre de voyage où il décrit son voyage de plusieurs mois en France.
+> 
+> **– Les Premiers voyages organisés, encore les anglais !**  
+> 
+> Le tourisme tel que nous le connaissons émerge au cœur du XIXe siècle . Dans les années 1840, Thomas Cook crée des voyages organisés sur le territoire britannique. Son activité se développe grâce à l’Exposition universelle de Londres, en 1851, premier événement à susciter d’==importants mouvements de populations pacifiques==. En 1855, il organise un premier circuit touristique à travers l’Europe et, en 1868, il lance les premiers coupons d’hôtel. Une première croisière sur le Nil est organisée l’année suivante. Enfin, en 1874, il crée le chèque voyage. À l’orée du XXe siècle, l’entreprise _Thomas Cook & Son_ apparaît comme un leader mondial du tourisme. L’épitaphe de son fondateur, « _He made travel easier_ », résume bien la visée d’un modèle appelé à faire date, celui des agences de voyages et des tour-opérateurs, qui permet d’assembler différents types de prestations et de confectionner un « produit touristique » commercialisable. L’existence d’intermédiaires est ainsi consubstantielle à l’économie touristique.
+
+
+# Tourisme balnéaire
+
+Debut des bains de mers car bon pour la santé
+
+> [!NOTE]
+> **Premières stations balnéaires, thermales et de montagne : années 1850**   
+> 
+> Parallèlement, il s’agit d’aménager les lieux de séjour prêts à accueillir des touristes en nombre croissant. Dans les années 1730, le docteur Russell construit un établissement de bains à Brighton. Les médecins français reprennent l’idée un siècle plus tard en créant  des stations balnéaires, telles qu’Arcachon,  Deauville, La Baule ou Le Touquet, ==« ex nihilo »== sur le littoral. On aménage également des stations thermales, tandis que le tourisme de montagne se développe à l’initiative de sociétés de commerçants et d’hôteliers, en vue de valoriser leurs vallées.
+
+
+1935 Congés payés donc répention du tourisme
+
+
+1955: Tourisme de masse avec les transport
+Développement des campings, Voiture indiv, etc...
+
+
+1960: Développement du tourisme en Espagne
+
+Grand tourisme en France because:
+- Gastro
+- Culture
+- Avantage terrain (montagne, velo, marche)
+- France passage entre suisse, italie, portugal, espagne, ...
+- Patrimoine
+- Tourisme d'affaire
+
+
+1970: accessibilité des avions 
+Guide du routard
+
+1er routard en Inde
+
+Le tourisme s'intertionalise
+
+Démocratisation des sports d'Hivers
+
+
+2000s
+
+eTourisme (désintermédialisation)
+Tourisme de longue durée 1 fois à plusieur fois + court
+
+
+Slowtourisme (E.x: Loire à vélo/Randonnées)
+=/= Surtourisme
+
+Renaissance des agences de voyages grâce aux croisières
+|-> CostaCroisières
+|-> MSC
+
+et grâce aux sorties scolaires / activités de groupes
+
+Clientèle haut de gamme pour sorties sur-mesure (ex: Cadres)
+
+Touristes prévoient été apres Vacances de Février
+
+Surtourisme impact:
+
+- Ecologie
+- Faune
+- Flore
+- Pop. locale
+- Logement (AirBnB)
+
