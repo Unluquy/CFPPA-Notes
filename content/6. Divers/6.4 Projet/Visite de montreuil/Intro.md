@@ -1,4 +1,4 @@
-Projet appréciations (bien, tres bien, a améliorer)
+	Projet appréciations (bien, tres bien, a améliorer)
 
 Matinée;
 
@@ -32,9 +32,26 @@ Clara : Thouet / Commerce d'antan
 Victor : Thouet / Place du marché
 Julie : Eglise des Augustins / Jardin | Cheateau
 Madga : Histoire / Géo / Rampart
-Eugenie : Jardin du maille / Maison Dovalle | Eugenie
+Eugenie : Jardin du maille / Maison Dovalle | chateau
 Olivier : Porte St Jean / Hopital St jean
 
+
+On Map
+~~Jules~~
+Nataliia
+Nathan
+Fanny
+Louane
+~~Jibril~~
+Ali
+~~Natasha~~
+Clara
+Victor
+Julie
+Magda
+~~Eugenie~~
+~~Olivier~~
+https://connect.garmin.com/modern/course/419333836
 
 
 
