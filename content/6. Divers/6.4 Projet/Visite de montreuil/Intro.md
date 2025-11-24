@@ -1,5 +1,8 @@
 	Projet appréciations (bien, tres bien, a améliorer)
 
+# Trajet
+https://connect.garmin.com/modern/course/419333836
+
 Matinée;
 
 Encadrement 
@@ -16,24 +19,24 @@ CATL
 
 CATL
 
-Jules : Mediatheque / le Mail
-Natalia : Socio-eco
-Nathan : Hébergement
-Fanny : Magasin (Vers Mairie, ancienne phamacie) / Commerce
-Louane : Magasin (Vers Mairie, ancienne phamacie) / Commerce
-Jibril : Restauration (Grange à Dime / Gastronomie)
-Ali : ?
-Natasha: Info touristique / Loisir
+- Jules : Mediatheque / le Mail
+- Natalia : Socio-eco
+- Nathan : Hébergement
+- Fanny : Magasin (Vers Mairie, ancienne phamacie) / Commerce
+- Louane : Magasin (Vers Mairie, ancienne phamacie) / Commerce
+- Jibril : Restauration (Grange à Dime / Gastronomie)
+- Ali : ?
+-Natasha: Info touristique / Loisir
 
 
 Guides
 
-Clara : Thouet / Commerce d'antan
-Victor : Thouet / Place du marché
-Julie : Eglise des Augustins / Jardin | Cheateau
-Madga : Histoire / Géo / Rampart
-Eugenie : Jardin du maille / Maison Dovalle | chateau
-Olivier : Porte St Jean / Hopital St jean
+- Clara : Thouet / Commerce d'antan
+- Victor : Thouet / Place du marché
+- Julie : Eglise des Augustins / Jardin | Cheateau
+- Madga : Histoire / Géo / Rampart
+- Eugenie : Jardin du maille / Maison Dovalle | chateau
+- Olivier : Porte St Jean / Hopital St jean
 
 
 On Map
@@ -51,7 +54,6 @@ Julie
 Magda
 ~~Eugenie~~
 ~~Olivier~~
-https://connect.garmin.com/modern/course/419333836
 
 
 
