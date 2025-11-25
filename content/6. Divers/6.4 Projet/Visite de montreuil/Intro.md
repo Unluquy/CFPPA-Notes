@@ -26,7 +26,7 @@ CATL
 - Louane : Magasin (Vers Mairie, ancienne phamacie) / Commerce
 - Jibril : Restauration (Grange à Dime / Gastronomie)
 - Ali : ?
--Natasha: Info touristique / Loisir
+- Natasha: Info touristique / Loisir
 
 
 Guides
@@ -35,7 +35,7 @@ Guides
 - Victor : Thouet / Place du marché
 - Julie : Eglise des Augustins / Jardin | Cheateau
 - Madga : Histoire / Géo / Rampart
-- Eugenie : Jardin du maille / Maison Dovalle | chateau
+- Eugenie :  Monument aux 4 montreuillais / Maison Dovalle | chateau montreuil avec Julie
 - Olivier : Porte St Jean / Hopital St jean
 
 
@@ -48,8 +48,8 @@ Louane
 ~~Jibril~~
 Ali
 ~~Natasha~~
-Clara
-Victor
+~~Clara~~
+~~Victor~~
 Julie
 Magda
 ~~Eugenie~~
