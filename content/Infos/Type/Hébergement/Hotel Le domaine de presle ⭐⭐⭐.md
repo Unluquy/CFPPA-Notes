@@ -48,5 +48,7 @@ Autre Infos: Petit dej à 14€
 >   - Ticket-restau
 >
 > Chambres: 21
+> 
 > Ouvertures: Du 01/01 au 31/12
+> 
 > Ville: Distré
