@@ -3,4 +3,40 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("Saumur")
+        - file.inFolder("Infos/Type")
+        - file.hasProperty("Prix")
+    order:
+      - Type
+      - file.name
+      - Chambres
+      - Prix
+      - Payements
+      - tags
+      - Ouvertures
+    sort:
+      - property: Addresse
+        direction: ASC
+      - property: Chambres
+        direction: ASC
+    columnSize:
+      note.Type: 80
+      file.name: 211
+      note.Chambres: 113
+      note.Prix: 127
+      note.Payements: 133
+      note.tags: 407
+    rowHeight: medium
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("Infos/Type")
+        - file.ext == "md"
+    order:
+      - file.name
+      - Chambres
+      - Prix
+      - Tel
+      - Type
+      - tags
+    cardSize: 270
