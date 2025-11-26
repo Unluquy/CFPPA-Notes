@@ -1,4 +1,4 @@
-	Projet appréciations (bien, tres bien, a améliorer)
+Projet appréciations (bien, tres bien, a améliorer)
 
 # Trajet
 https://connect.garmin.com/modern/course/419333836
@@ -25,7 +25,7 @@ CATL
 - Fanny : Magasin (Vers Mairie, ancienne phamacie) / Commerce
 - Louane : Magasin (Vers Mairie, ancienne phamacie) / Commerce
 - Jibril : Restauration (Grange à Dime / Gastronomie)
-- Ali : ?
+- Ali : Education
 - Natasha: Info touristique / Loisir
 
 
@@ -43,14 +43,14 @@ On Map
 ~~Jules~~
 Nataliia
 Nathan
-Fanny
-Louane
+~~Fanny~~
+~~Louane~~
 ~~Jibril~~
 Ali
 ~~Natasha~~
 ~~Clara~~
 ~~Victor~~
-Julie
+~~Julie~~
 Magda
 ~~Eugenie~~
 ~~Olivier~~
