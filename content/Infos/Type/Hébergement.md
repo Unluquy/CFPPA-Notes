@@ -1,10 +1,12 @@
 ## Hotel
 
 ### Distré
-![[Untitled.base]]
+-  
 
-- Le domaine de presle 
-### 
+> [!hotel] Le domaine de presle :LiPartyPopper:
+> 
+
+### Saumur
 ### 
 ### 
 ### 
