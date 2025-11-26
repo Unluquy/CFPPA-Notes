@@ -12,12 +12,12 @@
 - Musée aux Anciens Commerce #Doué
 - La Collection Hippomobile #Saumur 
 - Musée du moteur #Saumur 
-- Musée de la Cavalrie #Saumur 
+- Musée de la Cavalerie #Saumur 
 - Musée de la marine de Loire #Saumur st-clément des levée
 - Musée Anako du chateau de la Reine de Sicile #Saumur 
 - Moulin Gasté #Gennes-val-de-loire
 - Moulin de sarré #Gennes-val-de-loire 
 - Moulin Hydroref #Longué
 - Centre d'art contemporain Bouvet-Ladubay #Saumur 
-- Galerie hémisphere art et fines bulles #Saumur 
+- Galerie hémisphère art et fines bulles #Saumur 
 - Galerie d'art esprit laque #Saumur 
