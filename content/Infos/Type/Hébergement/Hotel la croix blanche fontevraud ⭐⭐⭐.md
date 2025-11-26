@@ -1,22 +1,25 @@
 ---
 Type: Hotel
-Adresse: 2425 Rue de Cholet 49400 Distré
-Tel: 02.41.40.25.95
-Email: reception@domainedepresle.fr
-Site: www.domainedepresle.fr
+Adresse: 5-7 Place des Plantagenets 49590
+Tel: 02.41.51.71.11
+Email: info@lacroixblanche.fr
+Site: www.lacroixblanche.fr
 Prix:
-  - 88€
-  - 114€
+  - 79€
+  - 200€
 Services:
   - Parking privé
+  - Petit-dej 🥐
+  - Restau 🍴
+  - Terrasse
+  - Location de vélo 🚲
   - Piscine
 Payements:
   - Cheque-vacances
-  - Ticket-restau
-Chambres: 21
-Ouvertures: Du 01/01 au 31/12
-Ville: Distré
-Autre Infos: Petit dej à 14€
+Chambres: 24
+Ouvertures: Du 1 Fév au 23 Déc
+Ville: Fontevraud
+Autre Infos:
 ---
 
 > [!<% tp.frontmatter.Type %>] <% tp.file.title %>

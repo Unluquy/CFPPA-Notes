@@ -11,20 +11,20 @@ views:
       - Chambres
       - Prix
       - Payements
-      - tags
+      - Services
       - Ouvertures
     sort:
-      - property: Addresse
+      - property: Ouvertures
         direction: ASC
-      - property: Chambres
+      - property: Addresse
         direction: ASC
     columnSize:
       note.Type: 80
       file.name: 211
-      note.Chambres: 113
+      note.Chambres: 91
       note.Prix: 127
-      note.Payements: 133
-      note.tags: 407
+      note.Payements: 172
+      note.Services: 435
     rowHeight: medium
   - type: cards
     name: View
