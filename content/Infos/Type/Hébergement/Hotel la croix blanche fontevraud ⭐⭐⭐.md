@@ -1,5 +1,5 @@
 ---
-Type: Hotel
+Type (icon): hotel
 Adresse: 5-7 Place des Plantagenets 49590
 Tel: 02.41.51.71.11
 Email: info@lacroixblanche.fr
@@ -20,28 +20,38 @@ Chambres: 24
 Ouvertures: Du 1 Fév au 23 Déc
 Ville: Fontevraud
 Autre Infos:
+Coordinates:
+  - 47.18192460458566 
+  - "0.04994732500424875"
+colorIcon: "#d413d4"
 ---
 
-> [!<% tp.frontmatter.Type %>] <% tp.file.title %>
-> Type: <% tp.frontmatter.Type %>
+> [!Hotel] Hotel la croix blanche fontevraud ⭐⭐⭐
+> Type: Hotel
 > 
-> Adresse: <% tp.frontmatter["Adresse"] %>
-> Tel: <% tp.frontmatter.Tel %>
-> Email: <% tp.frontmatter.Email %>
-> Site: <% tp.frontmatter.Site %>
+> Adresse: 5-7 Place des Plantagenets 49590
+> Tel: 02.41.51.71.11
+> Email: info@lacroixblanche.fr
+> Site: www.lacroixblanche.fr
 > 
 > Prix:
-> <% tp.frontmatter.Prix.map(prop => ` - "${prop}"`).join("\n >") %>
+>  - "79€"
+ > - "200€"
 > 
 > Services:
-> <% tp.frontmatter.Services.map(prop => ` - "${prop}"`).join("\n >") %>
+>  - "Parking privé"
+ > - "Petit-dej 🥐"
+ > - "Restau 🍴"
+ > - "Terrasse"
+ > - "Location de vélo 🚲"
+ > - "Piscine"
 >
 > Payements:
-> <% tp.frontmatter.Payements.map(prop => ` - "${prop}"`).join("\n >") %>
+>  - "Cheque-vacances"
 >
-> Chambres: <% tp.frontmatter.Chambres %>
-> Ouvertures: <% tp.frontmatter["Ouvertures"] %>
-> Ville: <% tp.frontmatter.Ville %>
-> Autres: <% tp.frontmatter["Autre Infos"] %>
+> Chambres: 24
+> Ouvertures: Du 1 Fév au 23 Déc
+> Ville: Fontevraud
+> Autres: null
 
 

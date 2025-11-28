@@ -19,26 +19,5 @@ Ville: Distré
 Autre Infos: Petit dej à 14€
 ---
 
-> [!<% tp.frontmatter.Type %>] <% tp.file.title %>
-> Type: <% tp.frontmatter.Type %>
-> 
-> Adresse: <% tp.frontmatter["Adresse"] %>
-> Tel: <% tp.frontmatter.Tel %>
-> Email: <% tp.frontmatter.Email %>
-> Site: <% tp.frontmatter.Site %>
-> 
-> Prix:
-> <% tp.frontmatter.Prix.map(prop => ` - "${prop}"`).join("\n >") %>
-> 
-> Services:
-> <% tp.frontmatter.Services.map(prop => ` - "${prop}"`).join("\n >") %>
->
-> Payements:
-> <% tp.frontmatter.Payements.map(prop => ` - "${prop}"`).join("\n >") %>
->
-> Chambres: <% tp.frontmatter.Chambres %>
-> Ouvertures: <% tp.frontmatter["Ouvertures"] %>
-> Ville: <% tp.frontmatter.Ville %>
-> Autres: <% tp.frontmatter["Autre Infos"] %>
 
 

@@ -1,5 +1,5 @@
 ---
-Type: Hotel
+Type (icon): hotel
 Adresse: 2425 Rue de Cholet 49400 Distré
 Tel: 02.41.40.25.95
 Email: reception@domainedepresle.fr
@@ -21,6 +21,10 @@ Chambres: 21
 Ouvertures: Du 1 Janv au 31 Déc
 Ville: Distré
 Autre Infos: Petit dej à 14€
+Coordinates:
+  - "47.22509856706751"
+  - "-0.139785801732724"
+colorIcon: "#d413d4"
 ---
 
 

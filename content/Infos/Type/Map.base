@@ -1,0 +1,13 @@
+views:
+  - type: map
+    name: Map
+    coordinates: note.Coordinates
+    markerIcon: note.Type (icon)
+    markerColor: note.colorIcon
+    mapTilesDark:
+      - https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}
+    mapTiles:
+      - https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}
+    mapHeight: 740
+    center: "[47.19591, -0.18473]"
+    defaultZoom: 10.2

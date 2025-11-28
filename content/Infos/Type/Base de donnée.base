@@ -1,0 +1,38 @@
+formulas:
+  packed_display: |-
+    [
+    link("c: title folder-" + file.folder, title),
+    link("c: type", Type),
+    link("c: prix", Prix),
+    link("c: ville", ville),
+    link("c: align-top-left",
+      link("c: stack-vertical gap-smaller margin-small",
+        if(tags,
+          tags.map(link("c: tag font-smaller", Services.map([value]))),
+          ""
+        )
+      )
+    )
+    ]
+views:
+  - type: table
+    name: View 2
+    filters:
+      and:
+        - file.inFolder("Infos/Type")
+        - file.ext == "md"
+    order:
+      - file.name
+      - Prix
+      - Thématique
+      - Ville
+      - Services
+      - Autre Infos
+    sort:
+      - property: Services
+        direction: ASC
+    rowHeight: tall
+    columnSize:
+      note.Prix: 177
+      note.Ville: 114
+      note.Services: 347
